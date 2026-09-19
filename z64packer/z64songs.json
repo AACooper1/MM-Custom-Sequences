@@ -19658,7 +19658,7 @@
     "game": "Fire Emblem: The Sacred Stones",
     "song": "The Final Battle",
     "composers": [
-      "Saki Haruyama",
+      "Saki Kasuga",
       "Yoshihiko Kitamura",
       "Yoshito Hirano"
     ],
@@ -19671,13 +19671,11 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/The Final Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/The Final Battle.mp3",
     "lufs": "-18.20",
-    "hash": "8afba883b552672c23dff77f83acca26"
+    "hash": "8afba883b552672c23dff77f83acca26",
+    "lastUpdateDate": "2026-09-19T19:35:19.465Z"
   },
   {
     "uuid": "c82ffa92-ef22-47a4-afee-6625ee23e58a",
