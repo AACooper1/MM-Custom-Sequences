@@ -97342,5 +97342,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "3f62a941-319a-422a-96d3-caba525fd992",
+    "creationDate": "2026-09-19T19:29:28.307Z",
+    "game": "The Great Ace Attorney Chronicles",
+    "song": "Cross-Examination ~Allegro~",
+    "composers": [
+      "Yasumasa Kitagawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.50",
+    "file": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "preview": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
