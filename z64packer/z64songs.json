@@ -91292,16 +91292,17 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Thracia 776/In the Midst of Battle ~ Destiny.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/In the Midst of Battle ~ Destiny.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "55ec389320c92cd345f673b504d08e97",
-    "lufs": "-17.17"
+    "lufs": "-17.17",
+    "lastUpdateDate": "2026-09-19T19:46:37.138Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "ead45001-9f52-400b-ae32-4701d3c19efd",
