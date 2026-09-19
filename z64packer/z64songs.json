@@ -91314,16 +91314,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Thracia 776/The Threat Draws Near ~ Charge.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/The Threat Draws Near ~ Charge.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7230e39a2d0ab20f53b12982cf6dceac",
-    "lufs": "-16.74"
+    "lufs": "-16.74",
+    "lastUpdateDate": "2026-09-19T19:47:07.016Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "94ab84d8-1ddd-451d-982a-03a53c2bb724",
