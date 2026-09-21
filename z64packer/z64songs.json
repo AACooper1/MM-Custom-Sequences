@@ -97371,5 +97371,31 @@
     "usesCustomSamples": true,
     "preview": "ULTRAKILL/War Without Reason.mp3"
   },
+  {
+    "uuid": "72efd49a-19cd-4478-a61e-43dfc8e635f1",
+    "creationDate": "2026-09-21T02:24:30.284Z",
+    "game": "ULTRAKILL",
+    "song": "War Without Reason (OST Order)",
+    "composers": [
+      "Arsi \"Hakita\" Patala"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "notes": "As this song is way too long to be heard in its entirety during normal gameplay, another version of this song is available, in which it is divided into sections that play in a random order (similar to Hyrule Field in Ocarina of Time). Check that version out (please i worked really hard on it)",
+    "lufs": "-12.95",
+    "file": "ULTRAKILL/War Without Reason (OST Order).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "ULTRAKILL/War Without Reason (OST Order).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
