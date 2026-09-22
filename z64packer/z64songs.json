@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -19675,7 +19675,10 @@
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/The Final Battle.mp3",
     "lufs": "-18.20",
     "hash": "8afba883b552672c23dff77f83acca26",
-    "lastUpdateDate": "2026-09-19T19:35:19.465Z"
+    "lastUpdateDate": "2026-09-19T19:35:19.465Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c82ffa92-ef22-47a4-afee-6625ee23e58a",
@@ -19723,7 +19726,10 @@
     "preview": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mp3",
     "lufs": "-16.41",
     "hash": "0d60445f32d486b9418de3d46934de74",
-    "lastUpdateDate": "2026-09-19T19:24:52.847Z"
+    "lastUpdateDate": "2026-09-19T19:24:52.847Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "32dc91f0-557d-461e-b20f-00518f3d06f9",
@@ -19794,7 +19800,10 @@
     "preview": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Close to Defeat.mp3",
     "lufs": "-18.71",
     "hash": "b6cbf731c9b8c93440db787759d78070",
-    "lastUpdateDate": "2026-09-19T19:43:21.124Z"
+    "lastUpdateDate": "2026-09-19T19:43:21.124Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c2e6818b-dc14-4832-8767-3605ce04355e",
@@ -91279,7 +91288,10 @@
     "lastUpdateDate": "2026-09-19T19:45:24.734Z",
     "composers": [
       "Yuka Tsujiyoko"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a3f211e9-fedf-4092-be6f-30eacaab8f6f",
@@ -91302,7 +91314,10 @@
     "lastUpdateDate": "2026-09-19T19:46:37.138Z",
     "composers": [
       "Yuka Tsujiyoko"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ead45001-9f52-400b-ae32-4701d3c19efd",
@@ -91324,7 +91339,10 @@
     "lastUpdateDate": "2026-09-19T19:47:07.016Z",
     "composers": [
       "Yuka Tsujiyoko"
-    ]
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "94ab84d8-1ddd-451d-982a-03a53c2bb724",
@@ -97359,7 +97377,10 @@
       "5"
     ],
     "usesCustomBank": true,
-    "preview": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mp3"
+    "preview": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "2f8d6c6bc3842f8aa7bad536c942eb42"
   },
   {
     "uuid": "00828fd8-8991-4e67-846f-0226173d3003",
@@ -97381,7 +97402,10 @@
       "6"
     ],
     "usesCustomBank": true,
-    "preview": "The Great Ace Attorney Chronicles/Kazuma Asogi ~Samurai on a Mission~.mp3"
+    "preview": "The Great Ace Attorney Chronicles/Kazuma Asogi ~Samurai on a Mission~.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "770192e4015d74d22d3cfed4bed88837"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
