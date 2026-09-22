@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -19658,7 +19658,7 @@
     "game": "Fire Emblem: The Sacred Stones",
     "song": "The Final Battle",
     "composers": [
-      "Saki Haruyama",
+      "Saki Kasuga",
       "Yoshihiko Kitamura",
       "Yoshito Hirano"
     ],
@@ -19671,13 +19671,11 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/The Final Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/The Final Battle.mp3",
     "lufs": "-18.20",
-    "hash": "8afba883b552672c23dff77f83acca26"
+    "hash": "8afba883b552672c23dff77f83acca26",
+    "lastUpdateDate": "2026-09-19T19:35:19.465Z"
   },
   {
     "uuid": "c82ffa92-ef22-47a4-afee-6625ee23e58a",
@@ -19725,10 +19723,7 @@
     "preview": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mp3",
     "lufs": "-16.41",
     "hash": "0d60445f32d486b9418de3d46934de74",
-    "lastUpdateDate": "2026-09-12T19:33:39.484Z",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-09-19T19:24:52.847Z"
   },
   {
     "uuid": "32dc91f0-557d-461e-b20f-00518f3d06f9",
@@ -19799,10 +19794,7 @@
     "preview": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Close to Defeat.mp3",
     "lufs": "-18.71",
     "hash": "b6cbf731c9b8c93440db787759d78070",
-    "lastUpdateDate": "2026-09-12T20:28:09.080Z",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-09-19T19:43:21.124Z"
   },
   {
     "uuid": "c2e6818b-dc14-4832-8767-3605ce04355e",
@@ -91277,16 +91269,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Leif.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Leif.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bb721acdc4a5edd76cb44558e748fc42",
-    "lufs": "-17.95"
+    "lufs": "-17.95",
+    "lastUpdateDate": "2026-09-19T19:45:24.734Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "a3f211e9-fedf-4092-be6f-30eacaab8f6f",
@@ -91299,16 +91292,17 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Thracia 776/In the Midst of Battle ~ Destiny.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/In the Midst of Battle ~ Destiny.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "55ec389320c92cd345f673b504d08e97",
-    "lufs": "-17.17"
+    "lufs": "-17.17",
+    "lastUpdateDate": "2026-09-19T19:46:37.138Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "ead45001-9f52-400b-ae32-4701d3c19efd",
@@ -91320,16 +91314,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Thracia 776/The Threat Draws Near ~ Charge.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/The Threat Draws Near ~ Charge.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7230e39a2d0ab20f53b12982cf6dceac",
-    "lufs": "-16.74"
+    "lufs": "-16.74",
+    "lastUpdateDate": "2026-09-19T19:47:07.016Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "94ab84d8-1ddd-451d-982a-03a53c2bb724",
@@ -97344,6 +97339,49 @@
     ],
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "3f62a941-319a-422a-96d3-caba525fd992",
+    "creationDate": "2026-09-19T19:29:28.307Z",
+    "game": "The Great Ace Attorney Chronicles",
+    "song": "Cross-Examination ~Allegro~",
+    "composers": [
+      "Yasumasa Kitagawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.50",
+    "file": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "preview": "The Great Ace Attorney Chronicles/Cross-Examination ~Allegro~.mp3"
+  },
+  {
+    "uuid": "00828fd8-8991-4e67-846f-0226173d3003",
+    "creationDate": "2026-09-19T19:32:59.319Z",
+    "game": "The Great Ace Attorney Chronicles",
+    "song": "Kazuma Asogi ~Samurai on a Mission~",
+    "composers": [
+      "Hiromitsu Maeba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.50",
+    "file": "The Great Ace Attorney Chronicles/Kazuma Asogi ~Samurai on a Mission~.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "preview": "The Great Ace Attorney Chronicles/Kazuma Asogi ~Samurai on a Mission~.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
