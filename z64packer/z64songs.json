@@ -97459,5 +97459,28 @@
     "usesCustomBank": true,
     "preview": "EarthBound/Get on the Bus!.mp3"
   },
+  {
+    "uuid": "198242fc-d5aa-4ca1-b2cb-35b1cb16216a",
+    "creationDate": "2026-09-22T18:14:49.393Z",
+    "game": "Deltarune",
+    "song": "Chaos King [2]",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-11.00",
+    "file": "Deltarune/Chaos King [2].mmrs",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "preview": "Deltarune/Chaos King [2].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
