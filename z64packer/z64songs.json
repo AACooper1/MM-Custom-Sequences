@@ -97433,5 +97433,31 @@
     "usesCustomSamples": true,
     "preview": "Super Mario RPG Legend of the Seven Stars/Let's Go Down the Wine River (spedup ver.).mp3"
   },
+  {
+    "uuid": "db828d65-b2fe-4c4e-8dfb-4eb623576f1a",
+    "creationDate": "2026-09-22T18:13:07.425Z",
+    "game": "EarthBound",
+    "song": "Get on the Bus!",
+    "composers": [
+      "Akio Ohmori",
+      "Ritsuo Kamimura",
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "lufs": "-16.89",
+    "file": "EarthBound/Get on the Bus!.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "EarthBound/Get on the Bus!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
