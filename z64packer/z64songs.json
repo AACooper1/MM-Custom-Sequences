@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97431,7 +97431,9 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "preview": "Super Mario RPG Legend of the Seven Stars/Let's Go Down the Wine River (spedup ver.).mp3"
+    "preview": "Super Mario RPG Legend of the Seven Stars/Let's Go Down the Wine River (spedup ver.).mp3",
+    "usesFormmask": false,
+    "hash": "b1a574082c4a8d3a74e2760cd301a2b3"
   },
   {
     "uuid": "db828d65-b2fe-4c4e-8dfb-4eb623576f1a",
@@ -97457,7 +97459,10 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "EarthBound/Get on the Bus!.mp3"
+    "preview": "EarthBound/Get on the Bus!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "8bd867b4726ca9912e282a70c17686b3"
   },
   {
     "uuid": "198242fc-d5aa-4ca1-b2cb-35b1cb16216a",
@@ -97480,7 +97485,10 @@
       "157"
     ],
     "usesCustomBank": true,
-    "preview": "Deltarune/Chaos King [2].mp3"
+    "preview": "Deltarune/Chaos King [2].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "55f1bee97d6e8dad87d3463e0c576441"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
