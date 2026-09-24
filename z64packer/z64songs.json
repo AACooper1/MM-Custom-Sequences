@@ -71394,7 +71394,7 @@
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Molgera [2]",
+    "song": "Molgera (Majora Remix)",
     "converters": [
       "Cmellz"
     ],
@@ -71404,7 +71404,7 @@
     "uuid": "7c806e7f-48dc-4803-b306-284237087fb6",
     "hash": "9be6b780c39a818bb5c57ab495f8d38a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda The Wind Waker/Molgera [2].mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Molgera (Majora Remix).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda The Wind Waker/Molgera [2].mp3",
     "type": "bgm",
     "categories": [
@@ -88790,7 +88790,7 @@
     "usesFormmask": false,
     "file": "Hades/Death And I.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Hades/Death And I.mp3",
-    "hash": "05a2099a428960f1e79670746d094b78",
+    "hash": "f5d3954feb7239116cd4728b33da64df",
     "lufs": "-20.42"
   },
   {
