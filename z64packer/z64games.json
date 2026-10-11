@@ -2460,6 +2460,7 @@
   },
   {
     "game": "Hollow Knight",
+    "series": "Hollow Knight Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6d4e59d5963286dfe2e696258bb10d1c.png"
   },
   {
@@ -3393,6 +3394,7 @@
   },
   {
     "game": "Digimon World",
+    "series": "Digimon World Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/04e874a9b62747383e22ed9992eec4ab.png"
   },
   {
@@ -4865,6 +4867,7 @@
   },
   {
     "game": "The Legend of Heroes: Trails in the Sky",
+    "series": "The Legend of Heroes Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/230b28a6218d432fec819aaefbdbed34.png",
     "short_name": "Trails in the Sky"
   },
@@ -5143,19 +5146,34 @@
     "short_name": "Touhou CD 5"
   },
   {
-    "game": "Monster Rancher 2"
+    "game": "Monster Rancher 2",
+    "series": "Monster Rancher Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1e29c56ad0f221a5aa3f0553eb72055b.png"
   },
   {
-    "game": "Project X Zone"
+    "game": "Project X Zone",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c146379747fc89b93bb6665febeb7c23.png"
   },
   {
-    "game": "The Legend of Heroes Trails from Zero"
+    "game": "The Legend of Heroes: Trails from Zero",
+    "series": "The Legend of Heroes Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b51887d225c4084c4c75f34ae85ff5e8.png",
+    "short_name": "Trails from Zero"
   },
   {
-    "game": "Resident Evil - Code Veronica X"
+    "game": "Resident Evil - Code: Veronica X",
+    "series": "Resident Evil Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c2be0c8ff27074343b8218c3b01bb3d0.png"
   },
   {
-    "game": "Digimon World 3"
+    "game": "Digimon World 3",
+    "series": "Digimon World Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ed699f1ad2b29cc7163de85ba523e413.png"
+  },
+  {
+    "game": "Hollow Knight: Silksong",
+    "series": "Hollow Knight Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/869b756887457aead5c1d0676e344c75.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
