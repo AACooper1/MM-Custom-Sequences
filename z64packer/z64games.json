@@ -5142,5 +5142,20 @@
     "logo": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-05-magical-astronomy/00%20Front.jpg",
     "short_name": "Touhou CD 5"
   },
+  {
+    "game": "Monster Rancher 2"
+  },
+  {
+    "game": "Project X Zone"
+  },
+  {
+    "game": "The Legend of Heroes Trails from Zero"
+  },
+  {
+    "game": "Resident Evil - Code Veronica X"
+  },
+  {
+    "game": "Digimon World 3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

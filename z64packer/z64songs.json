@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -101597,7 +101597,11 @@
       "6"
     ],
     "usesCustomBank": true,
-    "preview": "B3313/Dire, Dire Loss.mp3"
+    "preview": "B3313/Dire, Dire Loss.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "b0dc2eacb212eed232f903f64b7fb095"
   },
   {
     "uuid": "835dc601-9687-4bed-9b27-21b137a8c914",
@@ -101619,7 +101623,11 @@
       "3"
     ],
     "usesCustomBank": true,
-    "preview": "Castlevania II Belmont's Revenge/Psycho Warrior.mp3"
+    "preview": "Castlevania II Belmont's Revenge/Psycho Warrior.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "52b394c71290d1c067156d6c58e6a1bd"
   },
   {
     "uuid": "52faaeea-a337-4fea-9a0b-96f0b971e3a9",
@@ -101641,7 +101649,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Diddy Kong Racing/Darkmoon Caverns.mp3"
+    "preview": "Diddy Kong Racing/Darkmoon Caverns.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "370c43b89cccca23c342244f5ff8771d"
   },
   {
     "uuid": "571a43d5-0808-4224-a397-caa4f65c167a",
@@ -101662,7 +101674,12 @@
       "5",
       "7"
     ],
-    "preview": "Digimon World 3/Wild Digimon Battle.mp3"
+    "preview": "Digimon World 3/Wild Digimon Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "808c81004dafd7b1a2db3f02a70a7735"
   },
   {
     "uuid": "d056d328-27e9-4d9c-b3a8-89bceb52f07c",
@@ -101684,7 +101701,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Forest Interlude [2].mp3"
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Forest Interlude [2].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "bf78478732ef0ee616ec45b1f6b5764f"
   },
   {
     "uuid": "645251ab-a877-4e33-bd33-1c6ec075507d",
@@ -101705,7 +101726,12 @@
       "2",
       "3"
     ],
-    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Haunted Chase.mp3"
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Haunted Chase.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "c3ead5df07198227bf7d121cb727e418"
   },
   {
     "uuid": "8d669a60-1fed-4067-b7cb-a7d131e22b09",
@@ -101728,7 +101754,11 @@
       "3"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Kannon's Klanking.mp3"
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Kannon's Klanking.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "357c49e1217444f5a7b53cd72c63a218"
   },
   {
     "uuid": "9ae5bdc7-0f6e-4f68-bee4-dd2a0cbf8e7c",
@@ -101749,7 +101779,11 @@
       "10"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Lose....mp3"
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Lose....mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "d0b5840216bd8f24d4df20d36f2fef71"
   },
   {
     "uuid": "891f8b5a-f63f-49c4-b880-218d4be60bb1",
@@ -101769,7 +101803,12 @@
       "8",
       "10"
     ],
-    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Win!.mp3"
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Win!.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "bcbc35a86e75a86b326491f07ecebebe"
   },
   {
     "uuid": "2177875f-2a65-426d-9a42-10c8ad804291",
@@ -101790,7 +101829,11 @@
       "3"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Pokey Pipes.mp3"
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Pokey Pipes.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "e6a9e9cd8ed61ca5dafe1f7f48b9a59c"
   },
   {
     "uuid": "6c689fd7-8b5c-4989-817f-f243fe7c5148",
@@ -101811,7 +101854,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Treetop Tumble.mp3"
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Treetop Tumble.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "86494c6f077860ff57500f350c7f7173"
   },
   {
     "uuid": "57548c8e-5250-41fa-8d9f-3bc4b53d8fb5",
@@ -101832,7 +101879,12 @@
       "3",
       "6"
     ],
-    "preview": "Golden Sun The Lost Age/Frozen in Prox.mp3"
+    "preview": "Golden Sun The Lost Age/Frozen in Prox.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "2851abe4b07bd5ed6bf4b6ed085a9ad6"
   },
   {
     "uuid": "43ea9155-e913-4dc9-912a-4b6c5157555d",
@@ -101853,7 +101905,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "preview": "Kirby and the Forgotten Land/Moonlight Canyon.mp3"
+    "preview": "Kirby and the Forgotten Land/Moonlight Canyon.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "e759a71c24aeb926293ee136c8ce7e53"
   },
   {
     "uuid": "28901321-ff18-487a-be4f-88bc24c2e5d9",
@@ -101875,7 +101931,11 @@
       "6"
     ],
     "usesCustomBank": true,
-    "preview": "Kirby and the Forgotten Land/Fast-Flowing Waterworks.mp3"
+    "preview": "Kirby and the Forgotten Land/Fast-Flowing Waterworks.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "0153eae455d1b43d3b6cf228e4741069"
   },
   {
     "uuid": "62d9b730-a001-472e-a6be-82c0b2b24057",
@@ -101897,7 +101957,11 @@
       "6"
     ],
     "usesCustomBank": true,
-    "preview": "Kirby and the Forgotten Land/Northeast Frost Street.mp3"
+    "preview": "Kirby and the Forgotten Land/Northeast Frost Street.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "30c92b78530be4c652ca7c051253308b"
   },
   {
     "uuid": "6bfbd182-347b-45bc-b0d6-8a6451880874",
@@ -101921,7 +101985,12 @@
       "4",
       "7"
     ],
-    "preview": "Monster Rancher 2/Official Battle (IMa - FIMBA Meet).mp3"
+    "preview": "Monster Rancher 2/Official Battle (IMa - FIMBA Meet).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "25db2e6271682e4ca9338cf26627b33c"
   },
   {
     "uuid": "ce064eae-2d1e-4a8e-98f3-b4a4b250de91",
@@ -101942,12 +102011,16 @@
       "5"
     ],
     "usesCustomBank": true,
-    "preview": "Project X Zone/Wanderer's Road.mp3"
+    "preview": "Project X Zone/Wanderer's Road.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "7340ac802499642782abe1947ba21a33"
   },
   {
     "uuid": "4d60f32c-52dc-427c-8f01-49485499ad88",
     "creationDate": "2026-10-10T17:33:06.113Z",
-    "game": "Resident Evil - Code: Veronica X",
+    "game": "Resident Evil - Code Veronica X",
     "song": "Theme of Tyrant 3 B",
     "composers": [
       "Takeshi Miura",
@@ -101964,7 +102037,12 @@
       "5",
       "7"
     ],
-    "preview": "Resident Evil - Code Veronica X/Theme of Tyrant 3 B.mp3"
+    "preview": "Resident Evil - Code Veronica X/Theme of Tyrant 3 B.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "f0871da0a7186b1e642e4651b708fe8c"
   },
   {
     "uuid": "d03c72f8-436b-4cbb-bf1d-822036a55271",
@@ -101984,7 +102062,12 @@
       "0",
       "1"
     ],
-    "preview": "Sonic & Knuckles Collection/Carnival Night Zone Act 1.mp3"
+    "preview": "Sonic & Knuckles Collection/Carnival Night Zone Act 1.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "518d5ba23d9600dbecc4d35c603860bb"
   },
   {
     "uuid": "665b2e45-cca0-40b1-b922-75e79c963a70",
@@ -102005,7 +102088,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Sonic & Knuckles Collection/Ice Cap Zone Act 1.mp3"
+    "preview": "Sonic & Knuckles Collection/Ice Cap Zone Act 1.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "578b33b847eddf4e39d8e9bda9781a4e"
   },
   {
     "uuid": "f7540bbb-0597-417a-b5e4-494a86791de8",
@@ -102027,7 +102114,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Sonic the Hedgehog 3/Balloon Park Zone.mp3"
+    "preview": "Sonic the Hedgehog 3/Balloon Park Zone.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "97bafde416d80ca9c058916630b565d6"
   },
   {
     "uuid": "c55903e4-5f4d-4997-9784-f4ff51f23670",
@@ -102047,7 +102138,12 @@
       "3",
       "4"
     ],
-    "preview": "Sonic the Hedgehog 3/Gumball Machine.mp3"
+    "preview": "Sonic the Hedgehog 3/Gumball Machine.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "e81ddbf1acaa49a0561f498903839d6d"
   },
   {
     "uuid": "81dd04f4-72b4-43d7-a073-78192bbf4aa8",
@@ -102066,7 +102162,12 @@
     "categories": [
       "10"
     ],
-    "preview": "Sonic the Hedgehog 3/Stage Clear.mp3"
+    "preview": "Sonic the Hedgehog 3/Stage Clear.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "17cc07ed01dfbbfe4a0940f8c528e2ed"
   },
   {
     "uuid": "4e366ace-e8a9-4c28-93d3-e5a9e002666a",
@@ -102088,7 +102189,11 @@
       "3"
     ],
     "usesCustomBank": true,
-    "preview": "Sonic Mania/Flying Battery Zone Act 2.mp3"
+    "preview": "Sonic Mania/Flying Battery Zone Act 2.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "78e8cbec4cdfc6bda63b4316884d3d38"
   },
   {
     "uuid": "1501b480-55b1-4a76-9c22-0d1389df3412",
@@ -102113,7 +102218,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Puyo Puyo Tsu/1st Floor.mp3"
+    "preview": "Puyo Puyo Tsu/1st Floor.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "35dd288d24cd288c7468e06782e62f6a"
   },
   {
     "uuid": "1aeae57f-1e0c-4f1a-b2a5-c72a2f7551c7",
@@ -102136,12 +102245,16 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Puyo Puyo Tsu/2nd and 3rd Floor.mp3"
+    "preview": "Puyo Puyo Tsu/2nd and 3rd Floor.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "7c135cbc03513a9647a96c67240d43e3"
   },
   {
     "uuid": "47010d81-285f-4bb9-a66f-5935f653c41c",
     "creationDate": "2026-10-10T17:50:55.366Z",
-    "game": "The Legend of Heroes: Trails from Zero",
+    "game": "The Legend of Heroes Trails from Zero",
     "song": "Inevitable Struggle",
     "composers": [
       "Falcom Sound Team jdk"
@@ -102158,7 +102271,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "preview": "The Legend of Heroes Trails from Zero/Inevitable Struggle.mp3"
+    "preview": "The Legend of Heroes Trails from Zero/Inevitable Struggle.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "012ccde297321445d86abe5f064184d8"
   },
   {
     "uuid": "748e9572-97cb-4cf4-acd2-64fb63f93a3d",
@@ -102180,7 +102297,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "preview": "Xenoblade Chronicles 2/The Power of Jin.mp3"
+    "preview": "Xenoblade Chronicles 2/The Power of Jin.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "bf306fe28acac41ed1b18ec7430ea511"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
