@@ -103895,5 +103895,25 @@
     "usesCustomBank": true,
     "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3"
   },
+  {
+    "uuid": "95cf8ee0-0df3-44fc-9608-183b07880d06",
+    "creationDate": "2026-10-18T00:47:58.374Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Carver's Camp",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.85",
+    "file": "Golden Sun Dark Dawn/Carver's Camp.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Carver's Camp.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
