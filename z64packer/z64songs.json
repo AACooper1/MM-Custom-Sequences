@@ -103875,5 +103875,25 @@
     "usesCustomBank": true,
     "preview": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mp3"
   },
+  {
+    "uuid": "ad85f6f4-3463-4914-ae36-7dca9fc3b701",
+    "creationDate": "2026-10-18T00:46:14.365Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Sand Prince]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.06",
+    "file": "Golden Sun Dark Dawn/Battle! [Sand Prince].mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
