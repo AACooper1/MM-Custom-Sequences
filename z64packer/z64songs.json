@@ -103835,5 +103835,25 @@
     ],
     "preview": "Golden Sun Dark Dawn/Ascend to Destiny.mp3"
   },
+  {
+    "uuid": "2d3a4a1c-4dfa-4b52-b2a4-3ad9609fa11a",
+    "creationDate": "2026-10-18T00:41:41.357Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Ayuthay",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.16",
+    "file": "Golden Sun Dark Dawn/Ayuthay.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "preview": "Golden Sun Dark Dawn/Ayuthay.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
