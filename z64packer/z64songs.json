@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103833,7 +103833,12 @@
       "0",
       "5"
     ],
-    "preview": "Golden Sun Dark Dawn/Ascend to Destiny.mp3"
+    "preview": "Golden Sun Dark Dawn/Ascend to Destiny.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "dd6393202a604934530deb6097eef559"
   },
   {
     "uuid": "2d3a4a1c-4dfa-4b52-b2a4-3ad9609fa11a",
@@ -103853,7 +103858,12 @@
       "1",
       "2"
     ],
-    "preview": "Golden Sun Dark Dawn/Ayuthay.mp3"
+    "preview": "Golden Sun Dark Dawn/Ayuthay.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "00b5e8fa92355c9d341cf52f8dfa2b15"
   },
   {
     "uuid": "00cd6377-c9cc-4b5b-97e5-e8dc9f004371",
@@ -103873,7 +103883,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "preview": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mp3"
+    "preview": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "5100e9e3f4b0c22dfbf3d4620dd6d754"
   },
   {
     "uuid": "ad85f6f4-3463-4914-ae36-7dca9fc3b701",
@@ -103893,7 +103907,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3"
+    "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "0de994c8f51617da8b18fbf906d17494"
   },
   {
     "uuid": "95cf8ee0-0df3-44fc-9608-183b07880d06",
@@ -103913,7 +103931,11 @@
       "1"
     ],
     "usesCustomBank": true,
-    "preview": "Golden Sun Dark Dawn/Carver's Camp.mp3"
+    "preview": "Golden Sun Dark Dawn/Carver's Camp.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "31c4768a83c471a0d3d32fe1ebd041a8"
   },
   {
     "uuid": "d889484f-bfa3-4306-bdcb-cd8b9581f42d",
@@ -103932,7 +103954,12 @@
     "categories": [
       "0"
     ],
-    "preview": "Golden Sun Dark Dawn/Into the Skies.mp3"
+    "preview": "Golden Sun Dark Dawn/Into the Skies.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "e77b18903a1d7973506e15bef7a26d48"
   },
   {
     "uuid": "cacefd21-4106-4dfb-9a50-ca5e528f44dd",
@@ -103951,7 +103978,12 @@
     "categories": [
       "0"
     ],
-    "preview": "Golden Sun Dark Dawn/Passing the Obstacles.mp3"
+    "preview": "Golden Sun Dark Dawn/Passing the Obstacles.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "ff0095c01d4c5c9c293ac29ddf0f09b5"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
